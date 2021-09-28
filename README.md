@@ -1,0 +1,1 @@
+Using basic knowledge of HTML, a recipe website will be constructed. There will be a main index page which will have links to a few recipes. Demonstrate what you have learned so far from the HTML section of the foundations course.
