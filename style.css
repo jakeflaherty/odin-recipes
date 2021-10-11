@@ -9,7 +9,16 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.ingredient-background{
+    background-color: rgb(255, 255, 255);
+}
+.description-background{
+    background-color:darkgreen;
+}
 
+.steps-background{
+    background-color: red;
+}
 
 .first-link, .second-link{
     font-size: 20px;
