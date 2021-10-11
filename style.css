@@ -1,13 +1,15 @@
-.main-background{
+.page-background{
     background-color:rgb(173, 173, 173);
 }
 
-.main-title{
+.main-title, .sub-title{
     text-align: center;
     color:firebrick;
     font-size: 40px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+
 
 .first-link, .second-link{
     font-size: 20px;
