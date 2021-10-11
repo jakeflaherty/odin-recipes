@@ -1,0 +1,24 @@
+.main-background{
+    background-color:rgb(173, 173, 173);
+}
+
+.main-title{
+    text-align: center;
+    color:firebrick;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.first-link, .second-link{
+    font-size: 20px;
+}
+
+.main-images{
+    text-align: center;
+
+}
+
+img{
+    height: auto;
+    width: 500px;
+}
