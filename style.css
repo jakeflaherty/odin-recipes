@@ -2,22 +2,55 @@
     background-color:rgb(173, 173, 173);
 }
 
-.main-title, .sub-title{
+.main-title{
     text-align: center;
     color:firebrick;
     font-size: 40px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.ingredient-background{
-    background-color: rgb(255, 255, 255);
-}
-.description-background{
-    background-color:darkgreen;
+.recipe{
+    width: 600px;
+    background: rgb(179, 47, 47);
+    margin: 30px auto;
+    padding: 8px;
 }
 
-.steps-background{
-    background-color: red;
+.title{
+    margin-top: 0;
+    margin-bottom: 10px;
+    padding: 8px;
+    font-size: 28px;
+}
+
+.column1{
+width: 300px;
+height: 250px;
+border: 10px solid green;
+background-color: white;
+padding: 8px;
+margin: 80px 0px;
+}
+
+p, ol{
+    border: 5px solid green;
+    padding: 30px;
+    background: rgb(255, 255, 255);
+
+}
+
+ul{
+    border: 5px solid green;
+    padding: 30px;
+    text-align: center;
+}
+
+
+h3{
+    text-align: center;
+}
+.ingredient{
+    background: rgb(255, 255, 255);
 }
 
 .first-link, .second-link{
@@ -26,10 +59,15 @@
 
 .main-images{
     text-align: center;
+    padding: 8px;
+    
+    
 
 }
 
 img{
     height: auto;
-    width: 500px;
+    width: 100%;
+    border: 5px solid green;
+    
 }
