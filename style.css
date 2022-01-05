@@ -23,14 +23,6 @@
     font-size: 28px;
 }
 
-.column1{
-width: 300px;
-height: 250px;
-border: 10px solid green;
-background-color: white;
-padding: 8px;
-margin: 80px 0px;
-}
 
 p, ol{
     border: 5px solid rgb(228, 180, 50);
